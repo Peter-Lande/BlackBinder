@@ -1,0 +1,8 @@
+pyvenv.cfg
+lib/*
+include/*
+bin/*
+*/__pycache__
+*/*/__pycache__
+secret_key.txt
+BlackBinder/db.sqlite3
